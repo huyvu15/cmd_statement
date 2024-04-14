@@ -1,5 +1,7 @@
 # Tổng hợp lệnh cmd
 
+Tài liệu cmd vọc vạch từ năm nhất.
+
 ## Mẹo hay cho my laptop:
 
 - Window + R :+ gõ cmd 
@@ -23,12 +25,15 @@ $\rightarrow$ Ẩn hết chữ mà lúc gửi đi người gửi cx nhìn thấy
 
 Tiếp tục gõ aquarium là có cảnh cá bơi.
 
+![fish](https://anonyviet.com/wp-content/uploads/2022/02/tao-ho-ca-canh-cmd.jpg)
+
 ### Dãy số, chữ chạy liên tục:
-+ window+r: cmd --> color adir/s
++ window+r: cmd --> color a --> dir/s
 - Tạo 1 thư mục trong suốt trên màn hình máy tính: chuột phải tạo 1 folder trên màn hình desktop sau đó rename đặt thành Giữ alt + 255
 - thu nhỏ màn hình youtobe và vẫn xem được khi dùng những cái khác: vào chrome gõ chrome://flags, vào thanh tìm kiếm gõ global tìm "Global media controls control Cast start/stop" và chọn enabled.
 
 irm https://tinyurl.com/GetListWifiPasswords | iex: lấy tất cả mật khẩu wifi đã từng nhập vào máy tính
+![matrix number](https://thanhcuong.files.wordpress.com/2012/06/image.png)
 
 ## Trò hay với cmd(lưu ý run in terminal or comand prompt)
 With code:
@@ -73,7 +78,12 @@ With OS:
 
 > netstat: hiển thị các connect trong máy tính mình(giao thức,..)
 
-## Muốn xem phim trên trình cmd. Sời đơn giản, vào cmd gõ telnet towel.blinkenlights.nl. là xem được films Star Wars Episode IV đầy đủ 😊
+## Muốn xem phim trên trình cmd. 
+
+**Sời đơn giản, vào cmd gõ telnet towel.blinkenlights.nl. là xem được films Star Wars Episode IV đầy đủ 😊**
+
+![watch films](https://whitehat.vn/attachments/upload_2019-7-21_22-19-28-png.5072/)
+
 
 telnet towel.blinkenlights.nl.
 
@@ -117,6 +127,7 @@ Shutdown -i
 Shutdown -a để tắt
 $\rightarrow$ thử rồi nhưng vãn chưa ok
 + Shutdown -s -t [a]: để tắt máy
+
 ##	Dân chuyên nghiệp phải dùng cái này
 
 Vào tìm file hacker.bat (tôi tạo lâu rồi) mở lên làm trò giống hacker

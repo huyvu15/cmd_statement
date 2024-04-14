@@ -48,39 +48,62 @@ With OS:
 
 - Muốn xem phim trên trình cmd. Sời đơn giản, vào cmd gõ telnet towel.blinkenlights.nl. là xem được films Star Wars Episode IV đầy đủ 😊
 telnet towel.blinkenlights.nl.
+
 telnet towel.blinkenlights.nl 666
+
 telnet telnet.wmflabs.org (Wikimedia)
+
 telnet rainmaker.wunderground.com (Weather Underground)
+
 telnet aardmud.org 4000 (Aardwolf)
+
 telnet achaea.com 23 (Achaea)
+
 telnet ateraan.com 4002 (New Worlds – Ateraan)
+
 telnet avalon-rpg.com 23 (Avalon: The Legend Lives)
+
 telnet batmud.bat.org 23 (BatMUD)
+
 telnet eclipse.cs.pdx.edu 7680 (New Moon)
+
 telnet forgottenkingdoms.org 4000 (Forgotten Kingdoms)
+
 telnet freechess.org 5000 (Free Chess)
+
 telnet igormud.org 1701 (IgorMUD)
+
 telnet lord.stabs.org 23 (Legend of the Red Dragon)
+
 telnet mush.shelteringcolorado.com 2601 (Sheltering Sky: Colorado by Night)
+
 telnet zombiemud.org 23 (Zombie MUD)
 
- - Hack máy tính con nhà người ta qua việc dùng chung mạng wlan
+## Hack máy tính con nhà người ta qua việc dùng chung mạng wlan
 + netstat -n: xem nhưng ip máy tính khác đang dùng chung mạng wlan với máy tính mình
+
 Sau 1 vài thao tác 
+
 Shutdown -i
+
 Shutdown -a để tắt
-__> thử rồi nhưng vãn chưa ok
+$\rightarrow$ thử rồi nhưng vãn chưa ok
 + Shutdown -s -t [a]: để tắt máy
-	Dân chuyên nghiệp phải dùng cái này
- Vào tìm file hacker.bat (tôi tạo lâu rồi) mở lên làm trò giống hacker
+##	Dân chuyên nghiệp phải dùng cái này
+
+Vào tìm file hacker.bat (tôi tạo lâu rồi) mở lên làm trò giống hacker
 
 192.168.10.102  is my ip
 
 Net stats work: Kiểm tra máy bật lên khi nào
 
 Khi muốn chạy 1 ngôn ngữ bất kỳ trong terminal ví dụ là python: thì gõ py thì nó sẽ hiện ra trình soạn thảo nguyên thủy của python mỗi dòng nó sẽ hiện ra >>> 
+
 Để thoát khỏi trình này thì gõ: exit() . Thì sẽ exit trình chạy của python
+
 Install some library in py 
+
 Bao giờ cũng là như này:
+
 Py -m  pip install <name thư viện> 
 

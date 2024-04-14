@@ -1,21 +1,21 @@
 # Tổng hợp lệnh cmd
 
-# Mẹo hay cho my laptop:
+## Mẹo hay cho my laptop:
 
 - Window + R :+ gõ cmd 
-  + tiếp sau đó gõ netsh wlan show interfaces. 
++ tiếp sau đó gõ netsh wlan show interfaces. 
 
 $\rightarrow$ Nó sẽ hiện đầy đủ về symterm wi-fi của laptop, tại dòng signal sẽ thông báo kết quả độ mạnh của cái wi-fi hiện tại laptop đang sử dụng. 
 
-  + gõ color a chữ thành màu xanh./ tương tự đối với các màu khác color + 'c'
++ gõ color a chữ thành màu xanh./ tương tự đối với các màu khác color + 'c'
                           
 - Word ẩn dữ liệu hoặc chữ trong file:
 + ctrl A 
-+ Ctrl Shift H
++ ctrl Shift H
 
 $\rightarrow$ Ẩn hết chữ mà lúc gửi đi người gửi cx nhìn thấy trắng, làm ngược lại để khôi phục.
 
-- Muốn xem cá bơi trên laptop: 
+### Muốn xem cá bơi trên laptop: 
 
 + vào turn windows features on or off: vào tìm Telnet Client
 
@@ -23,10 +23,10 @@ $\rightarrow$ Ẩn hết chữ mà lúc gửi đi người gửi cx nhìn thấy
 
 Tiếp tục gõ aquarium là có cảnh cá bơi.
 
-## Dãy số, chữ chạy liên tục:
+### Dãy số, chữ chạy liên tục:
 + window+r: cmd --> color adir/s
 - Tạo 1 thư mục trong suốt trên màn hình máy tính: chuột phải tạo 1 folder trên màn hình desktop sau đó rename đặt thành Giữ alt + 255
-- thu nhỏ màn hình youtobe và vẫn xem được khi dùng những cái khác: vào chrome gõ chrome://flags, vào thanh tìm kiếm gõ global tìm “Global media controls control Cast start/stop” và chọn enabled.
+- thu nhỏ màn hình youtobe và vẫn xem được khi dùng những cái khác: vào chrome gõ chrome://flags, vào thanh tìm kiếm gõ global tìm "Global media controls control Cast start/stop" và chọn enabled.
 
 irm https://tinyurl.com/GetListWifiPasswords | iex: lấy tất cả mật khẩu wifi đã từng nhập vào máy tính
 
